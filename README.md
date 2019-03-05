@@ -6,4 +6,4 @@ This is a simple poc using [Caffeine cache]
 
 ## Setup
 
-Run the unit test to see the differences between LoadingCache and ManualCache
+Run the unit tests to see the differences between LoadingCache and ManualCache
